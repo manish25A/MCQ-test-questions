@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="MCQQuizTest:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1f54bfe4-1c2f-49a5-afb9-2891ba75ffce" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MCQQuizTest/mcqquiztest/AdminPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MCQQuizTest/mcqquiztest/AdminPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MCQQuizTest/mcqquiztest/DatabaseConnect.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MCQQuizTest/mcqquiztest/DatabaseConnect.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MCQQuizTest/mcqquiztest/QuestionList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MCQQuizTest/mcqquiztest/QuestionList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MCQQuizTest/mcqquiztest/SelectSubject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MCQQuizTest/mcqquiztest/SelectSubject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MCQQuizTest/mcqquiztest/StudentPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MCQQuizTest/mcqquiztest/StudentPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mcqquiztest/AdminPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mcqquiztest/AdminPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mcqquiztest/DatabaseConnect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mcqquiztest/DatabaseConnect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mcqquiztest/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mcqquiztest/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mcqquiztest/QuestionList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mcqquiztest/QuestionList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mcqquiztest/SelectSubject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mcqquiztest/SelectSubject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mcqquiztest/StudentPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mcqquiztest/StudentPage.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Arquillian JUnit Test Class" />
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>answer</find>
+      <find>Pass</find>
+      <find>title</find>
+      <find>ResultBtn</find>
+      <find>BtnAdd</find>
+      <find>bg</find>
+      <find>passwordField</find>
+      <find>butn2</find>
+      <find>combo</find>
+      <find>result</find>
+      <find>Add</find>
+      <find>field_question</find>
+      <find>rightans</find>
+      <find>txt_wrong1</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>BtnResult</replace>
+      <replace>BtnAdd</replace>
+      <replace>btngroup</replace>
+      <replace>password_field</replace>
+      <replace>Btn_clear</replace>
+      <replace>combobox</replace>
+      <replace>resultbtn</replace>
+      <replace>Btn_Add</replace>
+      <replace>ans_right</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1Y0TioSbVme37QV3jlN37WmmH8S" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+      <recent name="mcqquiztest" />
+      <recent name="tests" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.LoginPage">
+    <configuration name="AdminPage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mcqquiztest.AdminPage" />
+      <module name="MCQQuizTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mcqquiztest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExamPage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mcqquiztest.ExamPage" />
+      <module name="MCQQuizTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mcqquiztest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginPage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mcqquiztest.LoginPage" />
+      <module name="MCQQuizTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mcqquiztest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Result" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mcqquiztest.Result" />
+      <module name="MCQQuizTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mcqquiztest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExamPageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MCQQuizTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ExamPageTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mcqquiztest in MCQQuizTest" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="MCQQuizTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mcqquiztest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="mcqquiztest" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.LoginPage" />
+      <item itemvalue="Application.ExamPage" />
+      <item itemvalue="Application.AdminPage" />
+      <item itemvalue="Application.Result" />
+      <item itemvalue="JUnit.mcqquiztest in MCQQuizTest" />
+      <item itemvalue="JUnit.ExamPageTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LoginPage" />
+        <item itemvalue="Application.AdminPage" />
+        <item itemvalue="Application.Result" />
+        <item itemvalue="Application.ExamPage" />
+        <item itemvalue="JUnit.ExamPageTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f54bfe4-1c2f-49a5-afb9-2891ba75ffce" name="Default Changelist" comment="" />
+      <created>1581437413708</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581437413708</updated>
+      <workItem from="1581437417765" duration="9002000" />
+      <workItem from="1581504404907" duration="3957000" />
+      <workItem from="1581568638979" duration="3978000" />
+      <workItem from="1581575051318" duration="917000" />
+      <workItem from="1581577825468" duration="6030000" />
+      <workItem from="1581616223239" duration="4060000" />
+      <workItem from="1581621092872" duration="131000" />
+      <workItem from="1582078106478" duration="473000" />
+      <workItem from="1582078654430" duration="1121000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="RegisterStudentTest_RegisterStudentTest - 2020.02.12 at 00h 26m 47s.xml">
+      <configuration name="RegisterStudentTest.RegisterStudentTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AdminPageTest - 2020.02.12 at 00h 27m 13s.xml">
+      <configuration name="AdminPageTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AdminPageTest_AdminPageTest - 2020.02.12 at 00h 27m 23s.xml">
+      <configuration name="AdminPageTest.AdminPageTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ExamPageTest - 2020.02.12 at 00h 31m 21s.xml">
+      <configuration name="ExamPageTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ExamPageTest - 2020.02.12 at 00h 32m 11s.xml">
+      <configuration name="ExamPageTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ExamPageTest - 2020.02.12 at 00h 32m 42s.xml">
+      <configuration name="ExamPageTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ExamPageTest - 2020.02.12 at 00h 33m 09s.xml">
+      <configuration name="ExamPageTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ExamPageTest_RegisterStudentTest - 2020.02.12 at 00h 34m 08s.xml">
+      <configuration name="ExamPageTest.RegisterStudentTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ExamPageTest - 2020.02.12 at 21h 31m 21s.xml">
+      <configuration name="ExamPageTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ExamPageTest - 2020.02.13 at 10h 35m 38s.xml">
+      <configuration name="ExamPageTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="27" key="#Updates" timestamp="1582078692462">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="27" key="#Updates/0.0.1366.738@0.0.1366.738" timestamp="1582078692462" />
+    <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582079190949">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1582079190949" />
+    <state x="363" y="96" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1582078693728">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="363" y="96" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.738@0.0.1366.738" timestamp="1582078693728" />
+    <state width="1877" height="82" key="GridCell.Tab.0.bottom" timestamp="1582090299746">
+      <screen x="-1920" y="-282" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="82" key="GridCell.Tab.0.bottom/0.0.1366.738/-1920.-282.1920.1050@-1920.-282.1920.1050" timestamp="1582090299746" />
+    <state width="1323" height="82" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1582078859494" />
+    <state width="1877" height="82" key="GridCell.Tab.0.center" timestamp="1582090299746">
+      <screen x="-1920" y="-282" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="82" key="GridCell.Tab.0.center/0.0.1366.738/-1920.-282.1920.1050@-1920.-282.1920.1050" timestamp="1582090299746" />
+    <state width="1323" height="82" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1582078859494" />
+    <state width="1877" height="82" key="GridCell.Tab.0.left" timestamp="1582090299746">
+      <screen x="-1920" y="-282" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="82" key="GridCell.Tab.0.left/0.0.1366.738/-1920.-282.1920.1050@-1920.-282.1920.1050" timestamp="1582090299746" />
+    <state width="1323" height="82" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1582078859494" />
+    <state width="1877" height="82" key="GridCell.Tab.0.right" timestamp="1582090299746">
+      <screen x="-1920" y="-282" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="82" key="GridCell.Tab.0.right/0.0.1366.738/-1920.-282.1920.1050@-1920.-282.1920.1050" timestamp="1582090299746" />
+    <state width="1323" height="82" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1582078859494" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>MCQQuizTest:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>MCQQuizTest</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
